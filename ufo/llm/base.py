@@ -33,6 +33,7 @@ class BaseService(abc.ABC):
             "claude": "ClaudeService",
             "custom": "CustomService",
             "operator": "OperatorServicePreview",
+            "openrouter": "OpenRouterService",
             "placeholder": "PlaceHolderService",
         }
         custom_service_map = {
