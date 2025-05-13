@@ -22,9 +22,9 @@ pyautogui==0.9.54
 uiautomation==2.0.18
 gradio-client==1.7.1
 ##For removing stopwords
-#nltk==3.8.1
+nltk==3.8.1
 ##For Gemini
-# google-genai==1.12.1
+google-genai==1.12.1
 
 
 ## If use AAD to authenticate
